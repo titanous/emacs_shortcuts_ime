@@ -1,8 +1,8 @@
 {
   "name": "Emacs shortcuts IME",
-  "version": "0.0.3",
-  "manifest_version": 2,
-  "description": "US keyboard with emacs shortcut",
+  "version": "0.1.0",
+  "manifest_version": 3,
+  "description": "US keyboard with emacs shortcuts",
   "background": {
     "scripts": [
       "main.js"
@@ -76,8 +76,8 @@
     {
       "name": "US (Emacs)",
       "type": "ime",
-      "id": "us_emacs_shourtcuts",
-      "description": "US keyboard with emacs shortcut",
+      "id": "us_emacs_shortcuts",
+      "description": "US keyboard with emacs shortcuts",
       "language": "en-US",
       "layouts": [
         "us"
